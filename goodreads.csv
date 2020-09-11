@@ -1370,6 +1370,7 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 4008,The Devil and Miss Prym (On the Seventh Day  #3),Paulo Coelho-Amanda Hopkinson-Nick Caistor,3.60,0060527994,9780060527990,eng,205,46113,1963
 4009,Nine Stories,J.D. Salinger,4.19,0316767727,9780316767729,eng,198,110786,2817
 4010,The First Forty-Nine Stories,Ernest Hemingway,3.99,0099339218,9780099339212,eng,467,824,55
+4012,Night Lives: Nine Stories of the Dark Fantastic,Phyllis Eisenstein-Alex Eisenstein,4.50,0786249587,9780786249589,eng,307,4,0
 4014,The Sun Rises: and Other Questions About Time and Seasons,Brenda Walpole,3.95,0753459647,9780753459645,eng,32,50,6
 4021,American Psycho,Bret Easton Ellis-Mariano Antolín Rato,3.82,8495501473,9788495501479,spa,576,196,19
 4023,American Psycho,Bret Easton Ellis,3.82,033048477X,9780330484770,eng,399,835,76
@@ -4008,7 +4009,6 @@ bookID,title,authors,average_rating,isbn,isbn13,language_code,# num_pages,rating
 12212,Robert Frost: A Life,Jay Parini,4.13,0805063412,9780805063417,eng,514,249,30
 12220,A Streetcar Named Desire,Tennessee Williams,3.98,0822210894,9780822210894,eng,107,229601,2297
 12222,A Streetcar Named Desire,Tennessee Williams-Arthur  Miller,3.98,0811216020,9780811216029,en-US,192,3242,322
-12224,Streetcar Suburbs: The Process of Growth in Boston  1870-1900,Sam Bass Warner, Jr.-Sam B. Warner,3.57,0674842111,9780674842113,en-US,236,55,6
 12225,A Streetcar Named Desire (SparkNotes Literature Guide),SparkNotes,3.29,1586634496,9781586634490,eng,96,0,0
 12226,CliffNotes on Williams' Glass Menagerie & Streetcar Named Desire (Cliffs Notes),James Lamar Roberts-Tennessee Williams-CliffsNotes,3.78,0822005336,9780822005339,en-GB,88,9,0
 12230,Pygmalion,George Bernard Shaw-Dan H. Laurence-Nicholas Grene,3.90,0141439505,9780141439501,eng,122,1997,171
